@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ConversationHandler, ContextTypes, filters
 import random, string, os
 
-BOT_TOKEN = "8824123542:AAHgWOFJ8BG9NI6LIXQmhxw5-undTBIsVyk"
+BOT_TOKEN = "8824123542:AAH8x1PPoE6e_pSJdkmy5e3yrl44gQFFGKU"
 ADMIN_CHAT_ID = 7038610091
 
 NAME, MOBILE = range(2)
